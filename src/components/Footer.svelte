@@ -1,5 +1,5 @@
 <div class="Footer">
   <div class="Footer-container">
-    Soy un Footer
+    <div class="Footer-copy">© 2020 PUGSTAGRAM FROM PLATZI</div>
   </div>
 </div>
