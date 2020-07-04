@@ -137,7 +137,7 @@
   {#if isModal}
     <div transition:blur>
       <Modal>
-        <Share ON:click={handleClick}/>
+        <Share on:click={handleClick}/>
       </Modal>
     </div>
   {/if}

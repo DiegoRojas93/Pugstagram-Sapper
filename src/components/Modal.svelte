@@ -1,5 +1,3 @@
-
-
 <style>
   .Modal {
     position: relative;
