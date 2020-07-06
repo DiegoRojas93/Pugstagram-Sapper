@@ -10,7 +10,6 @@
 
 <svelte:head>
   <title>Configuración del perfil</title>
-
 </svelte:head>
 
 <Main>
